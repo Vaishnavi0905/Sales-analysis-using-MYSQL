@@ -1,4 +1,4 @@
-# Sales-analysis-using-MySQL
+# ${\colour{red} Sales\ Analysis\ Using\ MySQL}$
 
 # 📌 Objective
 
